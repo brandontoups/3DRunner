@@ -32,6 +32,7 @@ Along with this, the camera movement had to be synchronized with both of the sha
 ## Feedback 
 | ![](media/play-again-feedback.png) | ![](media/difficulty.png) |
 |:---:|:---:|
+
 Near the end of the development cycle, our surveys indicated that users were not happy with the game. We attributed this to the difficulty and speed of the gameplay. We were not taking into account what other people wanted to see in our game and focused too much on what we thought was fun. 
 
 Taking into account verbal feedback, we added an easy and hard mode to the game, giving players of different skill levels the ability to enjoy the game.
